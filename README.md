@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- 🌌 BANNER -->
 
-<!--
-**Anivex-2012/Anivex-2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 💜 ANIVEX-2012
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✦ Aspiring Front-End Developer ✦
+
+*Turning ideas into code, one project at a time.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anivex-2012\&color=8B5CF6\&style=for-the-badge)
+
+</div>
+
+---
+
+## 🦋 About Me
+
+Hey there! I'm **Anita**, a beginner developer who loves creating websites and exploring new technologies.
+
+* 💻 I'm learning web development and improving my coding skills.
+* 🎨 I enjoy designing creative and user-friendly websites.
+* 🚀 I'm working on personal projects and learning by building.
+* 🌱 My goal is to become a skilled developer and bring my ideas to life.
+
+---
+
+## 💜 Languages & Technologies
+
+### 🌐 Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Front-end technologies" />
+</p>
+
+* **HTML** — Building the structure of web pages.
+* **CSS** — Styling websites and creating beautiful layouts.
+* **JavaScript** — Adding interactivity and functionality.
+* **React** — Building reusable UI components.
+* **Next.js** — Creating modern web applications with React.
+* **Tailwind CSS** — Styling interfaces with utility classes.
+
+### 🛠️ Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Development tools" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 💜 Studix
+
+A daily planning website designed to help users organize their tasks and manage their time.
+
+* 📅 Plan daily activities.
+* ✅ Add and manage tasks.
+* 📊 Track daily progress.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anivex-2012&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anivex-2012&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning. Keep Creating. Keep Growing. ✨
+
+💜 Thanks for visiting my profile!
+
+</div>
