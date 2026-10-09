@@ -1,6 +1,9 @@
 <!-- 🌌 BANNER -->
 
 <div align="center">
+  <div align="center">
+  <img src="images/my-photo.png" width="200" alt="Anivex Profile Photo" />
+</div>
 
 # 💜 ANIVEX-2012
 
@@ -45,18 +48,6 @@ Hey there! I'm **Anita**, a beginner developer who loves creating websites and e
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Development tools" />
 </p>
-
----
-
-## 🚀 Featured Project
-
-### 💜 Studix
-
-A daily planning website designed to help users organize their tasks and manage their time.
-
-* 📅 Plan daily activities.
-* ✅ Add and manage tasks.
-* 📊 Track daily progress.
 
 ---
 
