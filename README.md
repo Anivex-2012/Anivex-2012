@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="center">
-  <img width="1280" height="720" alt="28380" src="https://github.com/user-attachments/assets/cb9ac6f4-4a46-497d-82d7-b391795f2c16" />
+  <img width="200" alt="َAnivex-proof" src="https://github.com/user-attachments/assets/cb9ac6f4-4a46-497d-82d7-b391795f2c16" />
 </div>
 
 # 💜 ANIVEX-2012
