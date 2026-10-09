@@ -2,16 +2,15 @@
 
 <div align="center">
   <div align="center">
-  <img src="images/my-photo.png" width="200" alt="Anivex Profile Photo" />
+  <img width="1280" height="720" alt="28380" src="https://github.com/user-attachments/assets/cb9ac6f4-4a46-497d-82d7-b391795f2c16" />
 </div>
 
 # 💜 ANIVEX-2012
 
+
 ### ✦ Aspiring Front-End Developer ✦
 
 *Turning ideas into code, one project at a time.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anivex-2012\&color=8B5CF6\&style=for-the-badge)
 
 </div>
 
